@@ -9,4 +9,3 @@ Penulisan
 - Rifqi Fauzi Rahmat
 - Soyid Agi Prasetio
 - Rio Agus Permana
-- Taofik Krisdiyanto
